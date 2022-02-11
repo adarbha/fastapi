@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'fast-api-demo'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_412811A49E574D09AD0C5AB910D0F28B }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_3387D0A215FE4EB380D8A7525232D3A0 }}
